@@ -32,7 +32,7 @@ const Contact: React.FC = () => {
               <div className="info-icon">✉️</div>
               <div>
                 <h4>Email Address</h4>
-                <p>hello@wanderlust.com</p>
+                <p>hello@eazytravels.com</p>
               </div>
             </div>
           </div>

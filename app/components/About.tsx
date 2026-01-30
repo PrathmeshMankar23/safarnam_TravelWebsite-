@@ -15,7 +15,7 @@ const About: React.FC = () => {
       name: "Rajesh Sharma",
       role: "Founder & CEO",
       image: "/assets/images/12345.png",
-      bio: "With over 15 years of experience in travel industry, Rajesh founded Safarnama with a vision to make travel accessible to everyone."
+      bio: "With over 15 years of experience in travel industry, Rajesh founded Eazy Travels with a vision to make travel accessible to everyone."
     },
     {
       name: "Priya Patel",
@@ -56,7 +56,7 @@ const About: React.FC = () => {
       {/* HERO SECTION */}
       <section className="about-hero">
         <div className="about-hero-content">
-          <h1>About Safarnama</h1>
+          <h1>About Eazy Travels</h1>
           <p>Your trusted travel partner for unforgettable adventures around the world</p>
         </div>
       </section>
@@ -67,13 +67,13 @@ const About: React.FC = () => {
           <div className="story-text">
             <h3>How It All Began</h3>
             <p>
-              Safarnama was born in 2018 from a simple observation: travel should be effortless, enriching, and accessible to everyone. Our founder, Rajesh Sharma, experienced firsthand the challenges of planning complex international trips and realized there was a better way.
+              Eazy Travels was born in 2018 from a simple observation: travel should be effortless, enriching, and accessible to everyone. Our founder, Rajesh Sharma, experienced firsthand the challenges of planning complex international trips and realized there was a better way.
             </p>
             <p>
               What started as a small team of passionate travelers in a tiny office has now grown into a thriving community of over 50,000 happy travelers. We've helped people explore destinations across 6 continents, creating memories that last a lifetime.
             </p>
             <p>
-              Today, Safarnama stands as a testament to the power of dreams and the magic of travel. We're not just a travel company; we're a family of explorers, storytellers, and adventure seekers who believe that the world is meant to be discovered.
+              Today, Eazy Travels stands as a testament to the power of dreams and the magic of travel. We're not just a travel company; we're a family of explorers, storytellers, and adventure seekers who believe that the world is meant to be discovered.
             </p>
           </div>
           <div className="story-stats">
@@ -92,7 +92,7 @@ const About: React.FC = () => {
       {/* WHY CHOOSE SAFARNAMA (OLD SERVICES SECTION) */}
       <section className="services-section">
         <div className="destinations-header">
-          <h2>Why Choose Safarnama?</h2>
+          <h2>Why Choose Eazy Travels?</h2>
           <p>We make your travel dreams come true</p>
         </div>
 
@@ -158,7 +158,7 @@ const About: React.FC = () => {
       <section className="about-cta">
         <div className="cta-content">
           <h2>Ready to Start Your Journey?</h2>
-          <p>Join thousands of happy travelers who have discovered the world with Safarnama</p>
+          <p>Join thousands of happy travelers who have discovered the world with Eazy Travels</p>
           <button className="btn-journey" onClick={handleStartJourney}>
             Explore Destinations →
           </button>

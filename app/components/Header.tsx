@@ -5,7 +5,7 @@ const Header: React.FC = () => {
   return (
     <header className="main-header">
       <div className="logo">
-        <img src="/assets/images/safarnama-img.png" alt="Safarnama" className="logo-image" />
+        <img src="/assets/images/Eazy-Travels.png" alt="Eazy Travels" className="logo-image" />
       </div>
       <nav className="nav-links">
         {/* These must match the 'id' attributes in your sections */}

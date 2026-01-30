@@ -18,7 +18,7 @@ const Footer: React.FC = () => {
 
       <div className="footer-bottom-grid">
         <div className="footer-brand">
-          <div className="footer-logo">🌐 Safarnama</div>
+          <div className="footer-logo">🌐 Eazy Travels</div>
           <p>Your trusted travel partner for unforgettable adventures around the world.</p>
           <div className="social-links">
             <span>fb</span> <span>ig</span> <span>tw</span> <span>yt</span>
@@ -28,10 +28,9 @@ const Footer: React.FC = () => {
         <div className="footer-links">
           <h4>Quick Links</h4>
           <ul>
-            <li><a href="#">About Us</a></li>
+            <li><a href="#about">About Us</a></li>
             <li><a href="#destinations">Destinations</a></li>
-            <li><a href="#">Tours</a></li>
-            <li><a href="#">Blog</a></li>
+            <li><a href="#contact">Contact Us</a></li>  
           </ul>
         </div>
 
@@ -50,12 +49,12 @@ const Footer: React.FC = () => {
           <h4>Contact Us</h4>
           <p>📍 123 Travel Street, Adventure City, AC 12345</p>
           <p>📞 +1 (555) 123-4567</p>
-          <p>✉️ hello@safarnama.com</p>
+          <p>✉️ hello@eazytravels.com</p>
         </div>
       </div>
 
       <div className="footer-copyright">
-        <p>© 2026 Safarnama. All rights reserved. Crafted with ❤️ for travelers worldwide.</p>
+        <p>© 2026 Eazy Travels. All rights reserved. Crafted with ❤️ for travelers worldwide.</p>
       </div>
     </footer>
   );
