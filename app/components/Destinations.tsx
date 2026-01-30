@@ -7,7 +7,7 @@ import EnquireForm from './EnquireForm';
 const destinationData = [
  {
   id: 1,
-  title: "Swiss Alps Adventure",
+  title: "Swiss Alps ",
   category: "Adventure",
   rating: 4.9,
   price: "₹1,07,907/per person",
@@ -148,7 +148,7 @@ const destinationData = [
 },
   {
     id: 2,
-    title: "Manali Scenic Escape",
+    title: "Manali",
     category: "Mountains",
     rating: 4.7,
     price: "₹67,000/per person",
@@ -244,7 +244,7 @@ const destinationData = [
   }, 
   {
   id: 3,
-  title: "Delhi – Churdhar – Shimla Adventure",
+  title: "Delhi – Churdhar – Shimla",
   category: "Adventure",
   rating: 4.8,
   price: "₹18,999 / per person",
@@ -382,7 +382,7 @@ const destinationData = [
 },
 {
   id: 4,
-  title: "Churdhar Trek Adventure",
+  title: "Churdhar",
   category: "Trekking",
   rating: 4.8,
   price: "₹18,999 / per person",
@@ -491,7 +491,7 @@ const destinationData = [
 },
 {
   id: 5,
-  title: "Churdhar Peak Trek Expedition",
+  title: "Churdhar Peak Trek",
   category: "Trekking",
   rating: 4.9,
   price: "₹22,999 / per person",
@@ -618,7 +618,7 @@ const destinationData = [
 },
 {
   id: 6,
-  title: "Shimla – Manali – Kasol Adventure",
+  title: "Shimla – Manali – Kasol ",
   image: "/assets/images/shimla&manali.jpeg",
   category: "Himalayan Tour",
   rating: 4.8,
